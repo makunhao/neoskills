@@ -33,3 +33,11 @@ neoskills 是一个「Homebrew 式」的 AI Agent 技能包管理器：用 git t
 
 - 上游仓库：https://github.com/neolaf2/neoskills
 - 许可证：MIT（本笔记不包含上游代码，仅事实摘要与建议）
+
+## 复现
+
+```bash
+git clone https://github.com/makunhao/neoskills.git
+cd neoskills
+git checkout c5a-cn-notes
+```
